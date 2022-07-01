@@ -1,0 +1,5 @@
+tailwindcss
+postcss
+postcss-cli
+autoprefixer
+cross-env
