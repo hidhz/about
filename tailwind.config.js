@@ -21,6 +21,7 @@ module.exports = {
             kuningmac: '#FFBE30',
             merahmac: '#FF6159',
             abumac: '#ECEAEB',
+            ungu: '#CED7FF',
         },
     },
   },
